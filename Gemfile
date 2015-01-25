@@ -47,3 +47,4 @@ end
 gem 'snapcat', github: "nneal/snapcat"
 gem 'pry-rails'
 gem 'pry-debugger'
+gem 'devise', github: "plataformatec/devise", branch: "lm-rails-4-2"
